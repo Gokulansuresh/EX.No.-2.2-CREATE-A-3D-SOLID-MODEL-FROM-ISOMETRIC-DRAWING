@@ -28,12 +28,16 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 11. Click again to place the sketch.
 12. Click Finish Sketch after completing.
 
+13. <img width="506" height="263" alt="Screenshot 2026-10-15 105059" src="https://github.com/user-attachments/assets/8c203914-9899-41a6-a29e-24db7a5080b3" />
+
+
 ## STEP-4: Extrude Sketch in XY Plane
 1.	Select Extrude.
 2.	Select the sketch.
 3.	Click again to place the value.
 4.	Type in the value of 8mm. 
 5.	Press ENTER to accept the value.
+<img width="537" height="562" alt="Screenshot 2026-10-15 105121" src="https://github.com/user-attachments/assets/8c02c6eb-428d-4e4e-97d8-f65fd6fc699c" />
 
 ## STEP-5:  Start the sketch command
    Select Sketch > Create Sketch.
@@ -48,6 +52,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 4.	Type the Tab button and enter the values 40mm and 10mm for the width and height respectively
 5.	Click again to place the RECTANGLE.
 6.	Click Finish Sketch after completing.
+<img width="502" height="515" alt="Screenshot 2026-10-12 105838" src="https://github.com/user-attachments/assets/07f2c377-f002-45ff-88c4-3462664aa9eb" />
 
 ## STEP-8:  Extrude RECTANGLE 
 1.	Select Extrude.
@@ -55,6 +60,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 3.	Click again to place the value.
 4.	Type in the value of 32mm. 
 5.	Press ENTER to accept the value.
+<img width="537" height="562" alt="Screenshot 2026-10-15 105121" src="https://github.com/user-attachments/assets/98443ef0-354f-4e4c-8126-93e67b1791e1" />
 
 ## STEP-9: Create a TRIANGLE 
 1.	Select Sketch > TRIANGLE > CENTER TRIANGLE .
@@ -78,6 +84,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 4.	Type the Tab button and enter the values 40mm and 30mm, for the width and height respectively and Choose 3 Side
 5.	Click again to place the polygon.
 6.	Click Finish Sketch after completing.
+<img width="775" height="516" alt="Screenshot 2026-10-15 105140" src="https://github.com/user-attachments/assets/19bed2c9-321f-436b-888a-e8276bd18e04" />
 
 ## STEP-12: Extrude PENTAGON
 1.	Select Extrude.
@@ -105,6 +112,9 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
 Output:
+<img width="917" height="676" alt="Screenshot 2026-10-15 105004" src="https://github.com/user-attachments/assets/c5d70f8b-2ad8-4172-b623-a1a0c24fa64e" />
+
+<img width="1027" height="727" alt="Screenshot 2026-10-15 104934" src="https://github.com/user-attachments/assets/f944a38e-d3e5-4029-894f-c88a6e947144" />
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
